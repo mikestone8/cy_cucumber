@@ -1,0 +1,19 @@
+node_modules
+cypress/videos/nova.feature.mp4
+cypress/screenshots/nova.feature/An attempt to break out the nova Java onBoarding API tests within the cypress cucumber framework -- Nova JavascriptCypress onBoarding API tests within the cypress cucumber framework. Negative test (failed).png
+cypress/screenshots/nova.feature/An attempt to break out the nova Java onBoarding API tests within the cypress cucumber framework -- Nova JavascriptCypress onBoarding API tests within the cypress cucumber framework. Negative unsuccessful test (failed).png
+cypress/reports/mocha/assets/MaterialIcons-Regular.woff
+cypress/reports/mocha/assets/MaterialIcons-Regular.woff2
+cypress/reports/mocha/assets/roboto-light-webfont.woff
+cypress/reports/mocha/assets/roboto-light-webfont.woff2
+cypress/reports/mocha/assets/roboto-medium-webfont.woff
+cypress/reports/mocha/assets/roboto-medium-webfont.woff2
+cypress/reports/mocha/assets/roboto-regular-webfont.woff
+cypress/reports/mocha/assets/roboto-regular-webfont.woff2
+cypress/reports/mocha/mochawesome_001.html
+cypress/reports/mocha/mochawesome.html
+cypress/reports/mocha/assets/app.js.map
+cypress/reports/mocha/assets/app.js
+cypress/reports/mocha/assets/app.js.LICENSE.txt
+cypress/reports/mocha/assets/app.css
+cypress/reports/mocha/assets/app.css.map
